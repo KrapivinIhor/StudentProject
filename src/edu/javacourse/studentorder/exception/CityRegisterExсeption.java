@@ -1,4 +1,4 @@
-package edu.javacourse.studentorder.exeptiom;
+package edu.javacourse.studentorder.exception;
 
 public class CityRegisterExсeption extends Exception
 

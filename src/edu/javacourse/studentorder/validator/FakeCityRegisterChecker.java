@@ -4,8 +4,8 @@ import edu.javacourse.studentorder.domain.Adult;
 import edu.javacourse.studentorder.domain.Child;
 import edu.javacourse.studentorder.domain.CityRegisterResponse;
 import edu.javacourse.studentorder.domain.Person;
-import edu.javacourse.studentorder.exeptiom.CityRegisterExсeption;
-import edu.javacourse.studentorder.exeptiom.TransportException;
+import edu.javacourse.studentorder.exception.CityRegisterExсeption;
+import edu.javacourse.studentorder.exception.TransportException;
 
 public class FakeCityRegisterChecker implements CityRegisterChecker {
 

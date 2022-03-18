@@ -1,10 +1,8 @@
 package edu.javacourse.studentorder.validator;
 
 import edu.javacourse.studentorder.domain.*;
-import edu.javacourse.studentorder.exeptiom.CityRegisterExсeption;
-import edu.javacourse.studentorder.exeptiom.TransportException;
-
-import java.util.List;
+import edu.javacourse.studentorder.exception.CityRegisterExсeption;
+import edu.javacourse.studentorder.exception.TransportException;
 
 public class CityRegisterValidator {
     public static final String IN_CODE = "NO_GRN";
